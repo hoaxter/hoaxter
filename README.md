@@ -1,4 +1,4 @@
-![PikPng com_dnd-logo-png_3863614](https://github.com/hoaxter/hoaxter/assets/141468297/a1db0e97-d7b0-4b89-8c00-f58c772ce5b8) | width = 50
+![PikPng com_dnd-logo-png_3863614 (2)](https://github.com/hoaxter/hoaxter/assets/141468297/8f0b13c6-df66-4289-a4b1-1062356535bb)
 
 - 👋 Hi, I’m Nitin Sikarwar
 - 👀 I’m interested in CyberSecurity 
