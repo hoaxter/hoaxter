@@ -1,4 +1,4 @@
-![Uploading pngtree-red-skull-png-png-image_8366153.png…]()
+![PikPng com_dnd-logo-png_3863614](https://github.com/hoaxter/hoaxter/assets/141468297/54add18b-f6fd-48ad-ade7-cb50087167a5)
 
 - 👋 Hi, I’m Nitin Sikarwar
 - 👀 I’m interested in CyberSecurity 
