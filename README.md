@@ -1,4 +1,4 @@
-![PikPng com_dnd-logo-png_3863614 (3) (1)](https://github.com/hoaxter/hoaxter/assets/141468297/873a964e-f2fa-4433-a8e8-49213df97f3c)
+![pngtree-red-skull-png-png-image_8366153-fotor-bg-remover-2024011419506](https://github.com/hoaxter/hoaxter/assets/141468297/2ebbc4d1-a4cd-48b7-97fe-add355b2056f)
 
 - 👋 Hi, I’m Nitin Sikarwar
 - 👀 I’m interested in CyberSecurity 
