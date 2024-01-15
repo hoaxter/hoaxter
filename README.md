@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Nitin Sikarwar
-- 👀 I’m interested in CyberSecurity 
+- 👋 Hi, I’m Nitin Sikarwar 
 - ⚙️ I’m currently learning Reverse Enigneering and Web Pentesting
 - 🔗 I’m looking to collaborate on any project related to my domain                                                     
 - 📫 How to reach me myinsta @neoknight_ and linkdein https://www.linkedin.com/in/nitin-sikarwar/
