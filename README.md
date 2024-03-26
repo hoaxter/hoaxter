@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec**
 
-- 📫 How to reach me **Instagram: neoknight_ , Linkedin: https://www.linkedin.com/in/nitin-sikarwar/**
+- 🎧 Music **HeadPhones On**
 
 - ⚡ Fun fact: **Still Alive**
 
