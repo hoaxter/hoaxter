@@ -7,7 +7,7 @@
 
 - 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.**
 
--  **धर्मो रक्षति रक्षितः**
+-    **धर्मो रक्षति रक्षितः**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
