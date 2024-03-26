@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec**
 
-- 🎧 Music: **HeadPhones Always On**
+- 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.**
 
 - ⚡ Fun fact: **Still Alive**
 
