@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Sikarwar</h1>
-<h3 align="center">A passionate Cyber Security Student from India</h3>
+<h3 align="center">A cyber sentinel hailing from India, immersed in the clandestine world of security, ever-vigilant in the quest to fortify digital realms.</h3>
 
 - ⚙️ I’m currently learning **Reverse Engineering and Web Pentesting**
 
