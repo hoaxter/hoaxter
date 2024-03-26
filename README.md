@@ -2,7 +2,7 @@
 - ⚙️ I’m currently learning Reverse Enigneering and Web Pentesting
 - 🔗 I’m looking to collaborate on any project related to infosec or cybersecurity                                              
 - 📫 How to reach me myinsta @neoknight_ and linkdein https://www.linkedin.com/in/nitin-sikarwar/
-- 🎧 Music: HeadPhones always On
+- 🎧 Music: HeadPhones On
 
 <!---
 hoaxter/hoaxter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
