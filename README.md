@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/sikarwar999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sikarwar999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitin-sikarwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-sikarwar/" height="30" width="40" /></a>
-<a href="https://instagram.com/neoknight_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neoknight_" height="30" width="40" /></a>
+<a href="https://instagram.com/neoknight_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neoknight_" height="30" width="40" /></a> 
+<a href="https://tryhackme.com/hoaxter" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftryhackme.com%2Flogin&psig=AOvVaw1NcWDjDgRoTij2fcANzs3J&ust=1712597911769000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjv88LSsIUDFQAAAAAdAAAAABAR" alt="haoxter" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
