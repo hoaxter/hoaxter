@@ -8,8 +8,9 @@
 - 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.**
 
 -    **धर्मो रक्षति रक्षितः**
-  
-<script src="https://tryhackme.com/badge/2974151"></script>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/hoaxter.png" alt="TryHackMe">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
