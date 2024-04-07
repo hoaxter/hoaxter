@@ -9,7 +9,7 @@
 
 -    **धर्मो रक्षति रक्षितः**
   
-<script src="https://tryhackme.com/badge/2974151"> </script>
+<script src="https://tryhackme.com/badge/2974151"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
