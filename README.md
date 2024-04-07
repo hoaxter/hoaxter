@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Sikarwar</h1>
 <h3 align="center">A cyber sentinel hailing from India, immersed in the clandestine world of security, ever-vigilant in the quest to fortify digital realms.</h3>
 
-- ⚙️ I’m currently learning **Reverse Engineering and Web Pentesting**
+- ⚙️ I’m currently learning **Reverse Engineering and Web Pentesting.**
 
-- 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec**
+- 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec.**
 
 - 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.**
 
