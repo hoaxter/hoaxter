@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec.**
 
-- 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.**
-
-- 📖 **When the mind goes ablaze but the smile remains intact.** 
+- 🎵 Music: **With nocturnal melodies, crafting symphonies in the key of code under the moonlit sky.** 
 
 -    **धर्मो रक्षति रक्षितः**
 
