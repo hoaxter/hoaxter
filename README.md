@@ -3,7 +3,7 @@
 
 - ⚙️ **Unpacking Binaries, Unraveling Secrets**
 
-- 👯 I’m looking to collaborate on **on anything related to Cybersecurity and Infosec.**
+- 👯 Keen to collaborate on cutting-edge **Cybersecurity and Infosec challenges.**
 
 -    **धर्मो रक्षति रक्षितः**
 
