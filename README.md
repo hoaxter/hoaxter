@@ -1,7 +1,7 @@
 
-You said:
-<h1 align="center">Hi 👋, I'm Nitin Sikarwar</h1>
-<h3 align="center">A cyber sentinel hailing from India, immersed in the clandestine world of security, ever-vigilant in the quest to fortify digital realms.</h3>
+<h1 align="center">Hi, I'm Nitin Sikarwar</h1>
+<h3 align="center">A CyberGeek from India — always probing, learning, and hardening the hidden parts of the internet.</h3>
+<h3 align="center">I’m passionate about malware dev & analysis and love getting my hands dirty with kernel development.</h3>
 
 - ⚙️ **Unpacking Binaries, Unraveling Secrets**
 
