@@ -80,27 +80,23 @@
   <h2><samp>&gt; Contact me</samp></h2>
     <p align="center">Contacting me on any of these platforms is always welcome:<br><br>
     <a href="https://instagram.com/neoknight_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/nitin-sikarwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://x.com/sikarwar999" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-</a>
-<a href="mailto:nitin.sikarwar369@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-</a>
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/nitin-sikarwar/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/sikarwar999" target="_blank">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+    </a>
+    <a href="mailto:nitin.sikarwar369@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    </a>
     </p>
     <p align="center" title="またね！">Adios! <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15/></p>
 
 
-
-<!-- Quote of the Day -->
 <div style="text-align: center;">
      <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0MXVkOGd5dzNhdjMzdGtlbXVwdHk4c2VkNXRpd25jdHJqZHVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" height=150>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
 </div>
-
-
 </body>
