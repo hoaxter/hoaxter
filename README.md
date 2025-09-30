@@ -17,9 +17,11 @@
     <li>
         <b>A CyberGeek, always poking around, learning stuff, and messing with the hidden corners of the internet. </b>
     </li>
+    <br>
     <li>
         <b>I mess with malware dev & analysis, dabble in kernel stuff… it’s tough, but kinda fun. </b>
     </li>
+    <br>
     <li>
         <b>धर्मो रक्षति रक्षितः</b> 
     </li>
@@ -37,8 +39,16 @@
 <h2><samp>&gt; TechStack</samp></h2>
 <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" style="float:right; height:270px; margin-left: 20px;">
 
-<!-- Scrollable badge container -->
-<div style="overflow-x:auto; white-space:nowrap; padding:10px 0; text-align:center;">
+<h2><samp>&gt; TechStack</samp></h2>
+
+<!-- Container to allow text and badges to flow around the image -->
+<div style="overflow: hidden;">
+  <!-- Image floated to the right -->
+  <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" 
+       style="float:right; height:270px; margin-left: 20px; margin-bottom: 10px;">
+
+  <!-- Scrollable badge container -->
+  <div style="overflow-x:auto; white-space:nowrap; padding:10px 0;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -73,6 +83,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+   
+  </div>
 </div>
 
 <!-- <div>
