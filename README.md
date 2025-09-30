@@ -15,10 +15,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" align="right" height="240">
   <br>
     <li>
-        <b>About Me:</b> A CyberGeek, always poking around, learning stuff, and messing with the hidden corners of the internet.
+        <b>A CyberGeek, always poking around, learning stuff, and messing with the hidden corners of the internet. </b>
     </li>
     <li>
-        <b>Hobbys:</b> I mess with malware dev & analysis, dabble in kernel stuff… it’s tough, but kinda fun.
+        <b>I mess with malware dev & analysis, dabble in kernel stuff… it’s tough, but kinda fun. </b>
     </li>
     <li>
         <b>धर्मो रक्षति रक्षितः</b> 
@@ -37,7 +37,7 @@
 <div>
 
    <h2><samp>&gt; TechStack</samp></h2>
-    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="280px">
+    <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" align="right" height="270px">
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
