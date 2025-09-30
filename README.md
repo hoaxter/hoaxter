@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-    <h1 align="center"><samp>&gt; Hey, I am <b><a href="https://www.linkedin.com/in/nitin-sikarwar/">Nitin Sikarwar</a></b></samp></h1>
+    <h1 align="center"><samp>&gt; Hey, I am <b><a href="bento.me/hoaxter">Nitin Sikarwar</a></b></samp></h1>
 <br>
 <div align="center">
     <!--
