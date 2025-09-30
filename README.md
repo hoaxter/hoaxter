@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-    <h1 align="center"><samp>&gt; Hey, I am <b><a target="_blank">Nitin Sikarwar</a></b></samp></h1>
+    <h1 align="center"><samp>&gt; Hey, I am <b><a target="#">Nitin Sikarwar</a></b></samp></h1>
 <br>
 <div align="center">
     <!--
