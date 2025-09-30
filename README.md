@@ -35,9 +35,6 @@
   </details>
   
 </div>
-<br><br>
-<h2><samp>&gt; TechStack</samp></h2>
-<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" style="float:right; height:270px; margin-left: 20px;">
 
 <div>
    <h2><samp>&gt; TechStack</samp></h2>
