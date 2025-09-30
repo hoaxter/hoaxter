@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
-<br><br>
+<br>
   </p>
 </div>
   <h2><samp>&gt; Contact me</samp></h2>
@@ -98,7 +98,7 @@
 
 <!-- Quote of the Day -->
 <div style="text-align: center;">
-     <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0MXVkOGd5dzNhdjMzdGtlbXVwdHk4c2VkNXRpd25jdHJqZHVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" height=200>
+     <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d0MXVkOGd5dzNhdjMzdGtlbXVwdHk4c2VkNXRpd25jdHJqZHVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" height=150>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
 </div>
 
