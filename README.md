@@ -89,6 +89,7 @@
     <a href="mailto:nitin.sikarwar369@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
     </a>
+    <br>
     <a href="https://discord.com/users/1152086697417396254" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
