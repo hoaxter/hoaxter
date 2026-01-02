@@ -26,13 +26,7 @@
         <b>धर्मो रक्षति रक्षितः</b> 
     </li>
     <br>
-  <details align="center">
-    <summary> <samp>&#9776; Github Stats</samp></summary>
-    <p align="center">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxter&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages Stats">
-    </p>
-  </details>
+
   
 </div>
 <br>
